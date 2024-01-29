@@ -1,0 +1,140 @@
+.fshr-style1{
+    padding:30px 0px 30px 0px;
+    background: rgb(106, 0, 255);
+}
+.fshr-style2{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.fshr-style2 h2{
+    font: 500 40px ornitron;
+    color: white;
+}
+.fshr-style2-1{
+    font-size: 20px;
+    font-family: inter;
+    font-weight: 500;
+    color: white;
+    padding-left: 10px;
+}
+.fshr-style2-icon{
+    font-size: 25px;
+    color: yellow;
+}
+.fshr-style2-img{
+    height: 50px;
+    width: 50px;
+}
+.fshr-style2-row{
+    display: flex;
+    gap: 10px;
+    margin:50px 0px 0px 20px
+    
+}
+.fshr-style2-row h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    font-weight: orbitron;
+}
+.fshr-style2-row p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    font-weight: orbitron;
+    margin-top: -10px;
+}
+.fshr-style2-row #icon{
+    color: yellow;
+}
+
+.form{
+    border: 1px solid white;
+    width: 370px;
+    height: auto;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 2px 2p 2px 1px white;
+    background-color: white;
+    margin-left: 150px;
+}
+.form .input-type{
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+    padding-left: 20px;
+}
+.form .btn{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.fshr-style3 .row{
+    margin-top: 40px;
+}
+.fshr-style3 h2{
+    font:  500 40px orbitron;
+    color: aqua;
+}
+.fshr-style3 img{
+    width: 350px;
+    height: 350px;
+    margin-left: 35px;
+}
+.fshr-style3 p{
+    font:  500 20px/1.5 inter;
+    color: white;
+}
+.fshr-style4 .row{
+    border: 1px solid whitesmoke;
+    padding: 40px 0px 40px 20px;
+    background: white;
+    margin-top: 70px;
+}
+.fshr-style4 h2{
+    font: 500 40px orbitron;
+    color: blue;
+}
+.fshr-style4 li{
+    font: 500 25px/1.9 inter;
+    color: green;
+    margin-left: 10PX;
+}
+.fshr-style4 img{
+    width: 350px;
+    height: 350px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width:500px){
+    .fshr-style1{
+        padding: 0px 0px 0px 0px;
+    }
+    .fshr-style2 .row{
+        padding-left: 0px;
+    }
+    .form{
+        
+        width: 350px;
+        height: auto; 
+        margin-left: 0px;
+       
+    }
+    .fshr-style3 img{
+        width: 350px;
+        height: 350px;
+        margin-left: 0px;
+    }
+    .fshr-style4 img{  
+        margin-left: 0px;
+    }
+    .fshr-style4 li{
+        font: 500 20px/1.9 inter;
+        color: green;
+        margin-left: 10PX;
+    }
+
+}
+    
