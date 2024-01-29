@@ -135,6 +135,13 @@
         color: green;
         margin-left: 10PX;
     }
+    .fshr-style4 .row{
+        border: 1px solid whitesmoke;
+        padding: 40px 0px 40px 10px;
+        background: white;
+        margin-top: 70px;
+        margin-left: -15px;
+    }
 
 }
     
