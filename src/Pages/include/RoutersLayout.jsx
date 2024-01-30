@@ -10,7 +10,7 @@ const RoutersLayout=()=>{
           <Route
             path="/"
             exact
-            element={<Page/>}
+            element={<Page1/>}
           />
           <Route
             path="/page1"

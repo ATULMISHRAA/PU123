@@ -63,6 +63,8 @@ const Page1=()=>{
                </div>
             </div>
           </div>
+          </div>
+          <div>
           <div className="container fshr-style3 mt-2">
             <h2>Five Start Hotal Registration in india</h2>
             <div className="row">
@@ -97,6 +99,63 @@ const Page1=()=>{
                </div>
             </div>
           </div>
+          <div className="container fshr-style5 mt-2">
+            <div>
+              <h2 className="text-center">Documents Requred for five style Hotal Registration(With Alcohal)</h2>
+                  <p>
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                  </p>
+
+            </div>
+          </div>
+          <div className="container fshr-style6">
+            <div>
+               <h2 className="text-center">Documents Requred for five style Hotal Registration(With Alcohal)</h2>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet:</p>
+               <div className="fshr-style6-1">
+                  <div>
+                     <li>Build Pertmit</li>
+                     <li>Build Pertmit</li>
+                     <li>Build Pertmit</li>
+                     <li>Build Pertmit</li>
+                     <li>Build Pertmit</li>
+                     <li>Build Pertmit</li>
+                  </div>
+                  <div>
+                  <li>Build Pertmit</li>
+                  <li>Build Pertmit</li>
+                  <li>Build Pertmit</li>
+                  <li>Build Pertmit</li>
+                  <li>Build Pertmit</li>
+                  <li>Build Pertmit</li>
+                  </div>
+               </div>
+            </div>
+          </div>
+          <div className="container fshr-style7 mt-2">
+            <h2 className="text-center">Conclusion</h2>
+            <div className="row">
+               <div className="col-lg-5">
+                  <img src="../images/dummy.png" alt="image"/>
+               </div>
+               <div className="col-lg-7">
+                  <p>
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, 
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit.
+                  </p>
+               </div>
+            </div>
+          </div>
+           
           </div>
         </>
     )

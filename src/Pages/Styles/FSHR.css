@@ -1,10 +1,14 @@
 .fshr-style1{
     padding:30px 0px 30px 0px;
     background: rgb(106, 0, 255);
+    
 }
 .fshr-style2{
-    margin-top: 40px;
+   
     margin-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    
 }
 
 .fshr-style2 h2{
@@ -75,7 +79,7 @@
 }
 .fshr-style3 h2{
     font:  500 40px orbitron;
-    color: aqua;
+    color: blue;
 }
 .fshr-style3 img{
     width: 350px;
@@ -84,7 +88,7 @@
 }
 .fshr-style3 p{
     font:  500 20px/1.5 inter;
-    color: white;
+    color: green;
 }
 .fshr-style4 .row{
     border: 1px solid whitesmoke;
@@ -107,13 +111,58 @@
     margin-left: 140px;
     margin-top: 10px;
 }
+.fshr-style5 h2{
+    font: 500 40px orbitron;
+    color: blue;
+    padding-top: 30px;
+}
+.fshr-style5 p{
+    font: 500 20px/1.5 inter;
+    color: green;
+    padding-left: 10px;
+}
+.fshr-style6 h2{
+    font: 500 40px orbitron;
+    color: blue;
+    padding-top: 30px;
+}
+.fshr-style6 p{
+    font: 500 20px inter;
+}
+.fshr-style6-1{
+    display: flex;
+    gap: 600px;
+    line-height: 0px;
+    margin-left: 40px;
+}
+.fshr-style6-1 li{
+    font: 500 20px/1.9 inter;
+}
+.fshr-style7 h2{
+    font: 500 40px orbitron;
+    color: blue;
+    padding-top: 50px;
+}
+.fshr-style7 .row{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.fshr-style7 p{
+    font: 500 20px/1.5 inter;
+    color: green;
+}
+.fshr-style7 img{
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+}
 
 @media only screen and (max-width:500px){
     .fshr-style1{
         padding: 0px 0px 0px 0px;
     }
     .fshr-style2 .row{
-        padding-left: 0px;
+        padding-left: 15px;
     }
     .form{
         
@@ -121,6 +170,9 @@
         height: auto; 
         margin-left: 0px;
        
+    }
+    .fshr-style3 .row{
+        padding-left: 15px;
     }
     .fshr-style3 img{
         width: 350px;
@@ -140,7 +192,13 @@
         padding: 40px 0px 40px 10px;
         background: white;
         margin-top: 70px;
-        margin-left: -15px;
+        margin-left: -12px;
+    }
+    .fshr-style6-1{
+        display: block;
+        gap: 0px;
+        line-height: 20px;
+        margin-left: 0px;
     }
 
 }
