@@ -74,6 +74,9 @@
     margin-left: 40px;
     margin-top: 10px;
 }
+.fshr-style3{
+    margin-top: 50px;
+}
 .fshr-style3 .row{
     margin-top: 40px;
 }
@@ -138,23 +141,132 @@
 .fshr-style6-1 li{
     font: 500 20px/1.9 inter;
 }
-.fshr-style7 h2{
+.fshr-style7-1 h3{
+    font: 500 35px orbitron;
+    color: white;
+}
+.fshr-style7 .fshr-style7-1{
+    border: 1px solid white;
+    padding: 30px 0px 30px 10px;
+    background: rgb(106, 0, 255);
+    margin-top: 50px;
+}
+.fshr-style7-1 .row .col-md-5{
+    border: 1px solid white;
+    border-radius: 35px;
+    padding: 10px;
+    background: white;
+}
+.fshr-style7-1 .row .col-md-5 h2{
+    font: 500 25px inter;
+    padding:10px 0px 0px 10px ;
+}
+.fshr-style7-img{
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+}
+.fshr-style7 .row .row{
+    padding-left: 20px;
+    gap: 20px;
+    padding-top: 30px;
+}
+.fshr-style7 .row .row img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.fshr-style8 h1{
+    font: 500 40px orbitron;
+    color: blue;
+    padding: 30px 0px 10px 0px ;
+}
+.fshr-style8 p{
+    font: 500 18px inter;
+}
+.tab-toggle h2{
+    font: 500 25px orbitron;
+    color: blue;
+}
+.tab-toggle p{
+    font: 500 17px/1.5 inter;
+    color: green;
+}
+
+.fshr-style8 .row li{
+    border: 1px solid blueviolet;
+    list-style: none;
+    border-radius: 30px;
+    padding: 12px;
+    margin-top: 10px;
+    transition: all 0.4s;
+}
+.fshr-style8 .row li:hover{
+    transform: scale(1.05);
+    background: blueviolet;
+    cursor: pointer;
+}
+
+.fshr-style8 .int{
+    border: 1px solid green;
+    padding: 8px;
+    font-size: 13px;
+    background: green;
+    border-radius: 40px;
+    color: white;
+}
+.fshr-style8 .content{
+    display: none;
+}
+.show-content{
+    display: block;
+}
+
+.fshr-style9 h2{
     font: 500 40px orbitron;
     color: blue;
     padding-top: 50px;
 }
-.fshr-style7 .row{
+.fshr-style9 .row{
     margin-top: 100px;
     margin-bottom: 20px;
 }
-.fshr-style7 p{
+.fshr-style9 p{
     font: 500 20px/1.5 inter;
     color: green;
 }
-.fshr-style7 img{
+.fshr-style9 img{
     width: 350px;
     height: 350px;
     margin-left: 20px;
+}
+.fshr-style10{
+    margin-top: 50px;
+}
+.fshr-style10-img1{
+    width: 350px;
+    height: 500px;
+    margin-left: 20px;
+}
+.fshr-style10 h2{
+    font: 500 40px orbitron;
+    color: blue;
+}
+.fshr-style10 p{
+    font: 500 18px/1.5 inter;
+    color: green;
+}
+.fshr-style10-img2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    box-shadow: 3px gray;
+}
+.fshr-style10 li{
+    font: 500 20px inter ;
+    color: black;
+    list-style: none;
+    margin-top: 20px;
 }
 
 @media only screen and (max-width:500px){
@@ -199,6 +311,13 @@
         gap: 0px;
         line-height: 20px;
         margin-left: 0px;
+    }
+    .fshr-style7 .row .row{
+        padding-left: 0px;
+        padding-bottom: 10px;
+    }
+    .fshr-style10 h2{
+       margin: 10px;
     }
 
 }
