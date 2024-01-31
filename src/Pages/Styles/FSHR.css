@@ -268,6 +268,32 @@
     list-style: none;
     margin-top: 20px;
 }
+.fshr-style11-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.fshr-style11 h2{
+    font: 500 40px orbitron;
+    color: blue;
+    padding-top: 50px;
+}
+.fshr-style11 ul{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+.fshr-style11 ul li{
+    border: 1px solid gray;
+    width: 300px;
+    height: auto;
+    padding: 8px;
+    list-style: none;
+    font: 500 20px inter;
+    color: darkblue;
+    cursor: pointer;
+}
 
 @media only screen and (max-width:500px){
     .fshr-style1{
@@ -318,6 +344,11 @@
     }
     .fshr-style10 h2{
        margin: 10px;
+    }
+    .fshr-style11-1{
+        display: block;
+        margin-left: 40px;
+        
     }
 
 }

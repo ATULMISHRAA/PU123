@@ -327,6 +327,35 @@ const Page1=(show, onClose)=>{
                </div>
             </div>
           </div>
+          <div className="container fshr-style11">
+            <h2 className="text-center">Others Bunisess Registration</h2>
+            <div className="fshr-style11-1">
+               <ul>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+               </ul>
+               <ul>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+               </ul>
+               <ul>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+               </ul>
+               <ul>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+                  <li>five Star Deluxe Hotal</li>
+               </ul>
+            </div>
+          </div>
            
           </div>
         </>
